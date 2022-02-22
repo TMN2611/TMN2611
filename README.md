@@ -1,20 +1,22 @@
 ### Hi there 👋
 
-::: warning
-*I'm Tran Minh Nhan, i'm intern Frontend right now*
-:::
+# **Tran Minh Nhan**
+## Intern Frontend
 
-<!--
-**TMN2611/TMN2611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+`About me`
+```
+  My name is Nhan 💙, i'm intern Frontend , my skills is Html, Css, JavaScript, Sass and React 
+```
 
-Here are some ideas to get you started:
+`My portfolio`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[My portfolio link](https://portfolio-tmn2611.vercel.app/)
+
+
+`Contact me`
+[Facebook](https://www.facebook.com/nhan.tranminh.16/) 🐧
+[Phone](0962165084) 🐧
+
+`Thanks for reading`
+![<img src="https://cdn-icons-png.flaticon.com/512/321/321252.png" width=20/>](https://cdn-icons-png.flaticon.com/512/321/321252.png)
+
