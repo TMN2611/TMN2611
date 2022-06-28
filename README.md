@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 # **Tran Minh Nhan**
-## Intern Frontend
+## Fresher Frontend
 
 `About me`
 ```
-  My name is Nhan 💙, i'm intern Frontend , my skills is Html, Css, JavaScript, Sass and React 
+  My name is Nhan 💙, i'm fresher Frontend , my skills is Html, Css, JavaScript, Sass and React 
 ```
 
 `My portfolio`
